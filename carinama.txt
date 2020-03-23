@@ -1,0 +1,1 @@
+Merupakan sebuah website sistem klasifikasi nama orang berdasarkan daerah tertentu. Sistem ini dikembangkan menggunakan Laravel 6.2
